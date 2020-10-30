@@ -1,0 +1,20 @@
+.countdown__h1{
+    color:blue
+}
+
+span{
+    color:red
+}
+
+.countdown__button{
+    padding:10px;
+    margin-left:5px;
+    border:none;
+    background-color:red;
+    color:white;
+
+}
+
+.countdown__button:focus{
+    outline:none;
+}
