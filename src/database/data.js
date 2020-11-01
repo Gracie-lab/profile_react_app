@@ -5,6 +5,7 @@ const data = [
         python: 80,
         java: 38,
         id:1,
+        score:0,
         // average:(this.javascript+this.python+this.java)/3
     },
     {
@@ -13,6 +14,7 @@ const data = [
         python: 12,
         java: 97,
         id:2,
+        score:0,
         // average:(this.javascript+this.python+this.java)/3
     },
     {

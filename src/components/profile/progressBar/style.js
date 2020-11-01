@@ -1,5 +1,24 @@
 import styled from 'styled-components'
 
+export const Pplus = styled.img`
+    font-size: 2px;
+    font-weight: 300; 
+    height: 10px;
+    display: flex;
+    justify-content: space-around;
+    margin-right: 10px;
+    
+           
+
+`
+
+export const Inner = styled.div`
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+
+`
+
 export const PContainer = styled.div`
     display: flex;
     align-items:center;
@@ -31,6 +50,7 @@ export const Progressbar = styled.div`
 `
 export const PText = styled.p`
     font-size: 11px;
+    text-transform: capitalize;
     font-weight: 500;
 `
 export const PIcon = styled.img`
